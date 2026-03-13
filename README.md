@@ -25,6 +25,13 @@ Tech Stack
 - Streamlit
 - NumPy
 
+DASHBOARD IMAGES 
+AI TECHNOLOGY TRENDS.png
+AI ADOPTION FORECAST.png
+AI SALARY ANALYSIS.png
+AI INVESTMENT.png
+AI SKILL RECOMMENDATION.png
+
 Project Structure
 
 AI-Technology-Dashboard
