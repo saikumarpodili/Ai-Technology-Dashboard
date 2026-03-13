@@ -1,0 +1,37 @@
+Year,Technology,Adoption_Score
+2025,Artificial Intelligence,73
+2026,Artificial Intelligence,75
+2027,Artificial Intelligence,81
+2028,Artificial Intelligence,87
+2029,Artificial Intelligence,93
+2030,Artificial Intelligence,97
+2025,Machine Learning,64
+2026,Machine Learning,66
+2027,Machine Learning,71
+2028,Machine Learning,73
+2029,Machine Learning,75
+2030,Machine Learning,79
+2025,Robotics,71
+2026,Robotics,77
+2027,Robotics,83
+2028,Robotics,85
+2029,Robotics,87
+2030,Robotics,91
+2025,Quantum Computing,63
+2026,Quantum Computing,65
+2027,Quantum Computing,68
+2028,Quantum Computing,72
+2029,Quantum Computing,74
+2030,Quantum Computing,77
+2025,Edge AI,67
+2026,Edge AI,69
+2027,Edge AI,71
+2028,Edge AI,74
+2029,Edge AI,80
+2030,Edge AI,82
+2025,Autonomous Systems,58
+2026,Autonomous Systems,64
+2027,Autonomous Systems,68
+2028,Autonomous Systems,70
+2029,Autonomous Systems,76
+2030,Autonomous Systems,79

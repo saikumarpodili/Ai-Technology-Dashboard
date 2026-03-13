@@ -1,0 +1,1921 @@
+date,technology,popularity_score
+2015-01,Artificial Intelligence,58
+2015-02,Artificial Intelligence,60
+2015-03,Artificial Intelligence,59
+2015-04,Artificial Intelligence,60
+2015-05,Artificial Intelligence,63
+2015-06,Artificial Intelligence,61
+2015-07,Artificial Intelligence,60
+2015-08,Artificial Intelligence,59
+2015-09,Artificial Intelligence,62
+2015-10,Artificial Intelligence,61
+2015-11,Artificial Intelligence,61
+2015-12,Artificial Intelligence,61
+2016-01,Artificial Intelligence,63
+2016-02,Artificial Intelligence,65
+2016-03,Artificial Intelligence,63
+2016-04,Artificial Intelligence,67
+2016-05,Artificial Intelligence,70
+2016-06,Artificial Intelligence,74
+2016-07,Artificial Intelligence,73
+2016-08,Artificial Intelligence,75
+2016-09,Artificial Intelligence,77
+2016-10,Artificial Intelligence,75
+2016-11,Artificial Intelligence,74
+2016-12,Artificial Intelligence,78
+2017-01,Artificial Intelligence,80
+2017-02,Artificial Intelligence,80
+2017-03,Artificial Intelligence,78
+2017-04,Artificial Intelligence,82
+2017-05,Artificial Intelligence,82
+2017-06,Artificial Intelligence,85
+2017-07,Artificial Intelligence,85
+2017-08,Artificial Intelligence,89
+2017-09,Artificial Intelligence,90
+2017-10,Artificial Intelligence,91
+2017-11,Artificial Intelligence,91
+2017-12,Artificial Intelligence,94
+2018-01,Artificial Intelligence,98
+2018-02,Artificial Intelligence,99
+2018-03,Artificial Intelligence,98
+2018-04,Artificial Intelligence,100
+2018-05,Artificial Intelligence,100
+2018-06,Artificial Intelligence,100
+2018-07,Artificial Intelligence,100
+2018-08,Artificial Intelligence,100
+2018-09,Artificial Intelligence,99
+2018-10,Artificial Intelligence,100
+2018-11,Artificial Intelligence,98
+2018-12,Artificial Intelligence,99
+2019-01,Artificial Intelligence,98
+2019-02,Artificial Intelligence,100
+2019-03,Artificial Intelligence,100
+2019-04,Artificial Intelligence,100
+2019-05,Artificial Intelligence,100
+2019-06,Artificial Intelligence,100
+2019-07,Artificial Intelligence,98
+2019-08,Artificial Intelligence,98
+2019-09,Artificial Intelligence,100
+2019-10,Artificial Intelligence,100
+2019-11,Artificial Intelligence,99
+2019-12,Artificial Intelligence,100
+2020-01,Artificial Intelligence,98
+2020-02,Artificial Intelligence,100
+2020-03,Artificial Intelligence,100
+2020-04,Artificial Intelligence,100
+2020-05,Artificial Intelligence,98
+2020-06,Artificial Intelligence,100
+2020-07,Artificial Intelligence,100
+2020-08,Artificial Intelligence,100
+2020-09,Artificial Intelligence,100
+2020-10,Artificial Intelligence,100
+2020-11,Artificial Intelligence,98
+2020-12,Artificial Intelligence,96
+2021-01,Artificial Intelligence,100
+2021-02,Artificial Intelligence,100
+2021-03,Artificial Intelligence,99
+2021-04,Artificial Intelligence,97
+2021-05,Artificial Intelligence,100
+2021-06,Artificial Intelligence,100
+2021-07,Artificial Intelligence,100
+2021-08,Artificial Intelligence,100
+2021-09,Artificial Intelligence,99
+2021-10,Artificial Intelligence,97
+2021-11,Artificial Intelligence,95
+2021-12,Artificial Intelligence,97
+2022-01,Artificial Intelligence,100
+2022-02,Artificial Intelligence,100
+2022-03,Artificial Intelligence,100
+2022-04,Artificial Intelligence,100
+2022-05,Artificial Intelligence,100
+2022-06,Artificial Intelligence,98
+2022-07,Artificial Intelligence,100
+2022-08,Artificial Intelligence,98
+2022-09,Artificial Intelligence,100
+2022-10,Artificial Intelligence,100
+2022-11,Artificial Intelligence,100
+2022-12,Artificial Intelligence,100
+2023-01,Artificial Intelligence,100
+2023-02,Artificial Intelligence,100
+2023-03,Artificial Intelligence,100
+2023-04,Artificial Intelligence,100
+2023-05,Artificial Intelligence,100
+2023-06,Artificial Intelligence,100
+2023-07,Artificial Intelligence,100
+2023-08,Artificial Intelligence,99
+2023-09,Artificial Intelligence,98
+2023-10,Artificial Intelligence,98
+2023-11,Artificial Intelligence,98
+2023-12,Artificial Intelligence,96
+2024-01,Artificial Intelligence,94
+2024-02,Artificial Intelligence,92
+2024-03,Artificial Intelligence,90
+2024-04,Artificial Intelligence,90
+2024-05,Artificial Intelligence,88
+2024-06,Artificial Intelligence,92
+2024-07,Artificial Intelligence,91
+2024-08,Artificial Intelligence,91
+2024-09,Artificial Intelligence,90
+2024-10,Artificial Intelligence,89
+2024-11,Artificial Intelligence,91
+2024-12,Artificial Intelligence,90
+2015-01,Machine Learning,49
+2015-02,Machine Learning,47
+2015-03,Machine Learning,47
+2015-04,Machine Learning,50
+2015-05,Machine Learning,50
+2015-06,Machine Learning,52
+2015-07,Machine Learning,56
+2015-08,Machine Learning,57
+2015-09,Machine Learning,57
+2015-10,Machine Learning,59
+2015-11,Machine Learning,57
+2015-12,Machine Learning,55
+2016-01,Machine Learning,53
+2016-02,Machine Learning,56
+2016-03,Machine Learning,55
+2016-04,Machine Learning,54
+2016-05,Machine Learning,56
+2016-06,Machine Learning,58
+2016-07,Machine Learning,57
+2016-08,Machine Learning,55
+2016-09,Machine Learning,57
+2016-10,Machine Learning,55
+2016-11,Machine Learning,59
+2016-12,Machine Learning,63
+2017-01,Machine Learning,64
+2017-02,Machine Learning,64
+2017-03,Machine Learning,66
+2017-04,Machine Learning,66
+2017-05,Machine Learning,69
+2017-06,Machine Learning,70
+2017-07,Machine Learning,71
+2017-08,Machine Learning,72
+2017-09,Machine Learning,70
+2017-10,Machine Learning,70
+2017-11,Machine Learning,72
+2017-12,Machine Learning,71
+2018-01,Machine Learning,71
+2018-02,Machine Learning,73
+2018-03,Machine Learning,72
+2018-04,Machine Learning,72
+2018-05,Machine Learning,74
+2018-06,Machine Learning,78
+2018-07,Machine Learning,80
+2018-08,Machine Learning,80
+2018-09,Machine Learning,83
+2018-10,Machine Learning,83
+2018-11,Machine Learning,86
+2018-12,Machine Learning,90
+2019-01,Machine Learning,92
+2019-02,Machine Learning,92
+2019-03,Machine Learning,92
+2019-04,Machine Learning,91
+2019-05,Machine Learning,92
+2019-06,Machine Learning,93
+2019-07,Machine Learning,97
+2019-08,Machine Learning,96
+2019-09,Machine Learning,94
+2019-10,Machine Learning,92
+2019-11,Machine Learning,95
+2019-12,Machine Learning,95
+2020-01,Machine Learning,97
+2020-02,Machine Learning,97
+2020-03,Machine Learning,100
+2020-04,Machine Learning,100
+2020-05,Machine Learning,100
+2020-06,Machine Learning,100
+2020-07,Machine Learning,100
+2020-08,Machine Learning,100
+2020-09,Machine Learning,99
+2020-10,Machine Learning,99
+2020-11,Machine Learning,97
+2020-12,Machine Learning,98
+2021-01,Machine Learning,97
+2021-02,Machine Learning,96
+2021-03,Machine Learning,96
+2021-04,Machine Learning,96
+2021-05,Machine Learning,97
+2021-06,Machine Learning,96
+2021-07,Machine Learning,98
+2021-08,Machine Learning,100
+2021-09,Machine Learning,100
+2021-10,Machine Learning,100
+2021-11,Machine Learning,99
+2021-12,Machine Learning,100
+2022-01,Machine Learning,99
+2022-02,Machine Learning,100
+2022-03,Machine Learning,100
+2022-04,Machine Learning,100
+2022-05,Machine Learning,100
+2022-06,Machine Learning,100
+2022-07,Machine Learning,100
+2022-08,Machine Learning,100
+2022-09,Machine Learning,100
+2022-10,Machine Learning,98
+2022-11,Machine Learning,99
+2022-12,Machine Learning,100
+2023-01,Machine Learning,98
+2023-02,Machine Learning,97
+2023-03,Machine Learning,100
+2023-04,Machine Learning,99
+2023-05,Machine Learning,99
+2023-06,Machine Learning,99
+2023-07,Machine Learning,100
+2023-08,Machine Learning,100
+2023-09,Machine Learning,100
+2023-10,Machine Learning,99
+2023-11,Machine Learning,100
+2023-12,Machine Learning,99
+2024-01,Machine Learning,100
+2024-02,Machine Learning,100
+2024-03,Machine Learning,100
+2024-04,Machine Learning,100
+2024-05,Machine Learning,100
+2024-06,Machine Learning,98
+2024-07,Machine Learning,98
+2024-08,Machine Learning,100
+2024-09,Machine Learning,100
+2024-10,Machine Learning,100
+2024-11,Machine Learning,100
+2024-12,Machine Learning,100
+2015-01,Deep Learning,53
+2015-02,Deep Learning,55
+2015-03,Deep Learning,54
+2015-04,Deep Learning,54
+2015-05,Deep Learning,54
+2015-06,Deep Learning,55
+2015-07,Deep Learning,57
+2015-08,Deep Learning,58
+2015-09,Deep Learning,61
+2015-10,Deep Learning,59
+2015-11,Deep Learning,57
+2015-12,Deep Learning,58
+2016-01,Deep Learning,62
+2016-02,Deep Learning,61
+2016-03,Deep Learning,61
+2016-04,Deep Learning,63
+2016-05,Deep Learning,66
+2016-06,Deep Learning,68
+2016-07,Deep Learning,70
+2016-08,Deep Learning,70
+2016-09,Deep Learning,73
+2016-10,Deep Learning,77
+2016-11,Deep Learning,75
+2016-12,Deep Learning,77
+2017-01,Deep Learning,77
+2017-02,Deep Learning,78
+2017-03,Deep Learning,79
+2017-04,Deep Learning,77
+2017-05,Deep Learning,75
+2017-06,Deep Learning,78
+2017-07,Deep Learning,76
+2017-08,Deep Learning,80
+2017-09,Deep Learning,84
+2017-10,Deep Learning,83
+2017-11,Deep Learning,85
+2017-12,Deep Learning,89
+2018-01,Deep Learning,93
+2018-02,Deep Learning,95
+2018-03,Deep Learning,97
+2018-04,Deep Learning,96
+2018-05,Deep Learning,99
+2018-06,Deep Learning,98
+2018-07,Deep Learning,100
+2018-08,Deep Learning,99
+2018-09,Deep Learning,100
+2018-10,Deep Learning,100
+2018-11,Deep Learning,100
+2018-12,Deep Learning,98
+2019-01,Deep Learning,98
+2019-02,Deep Learning,100
+2019-03,Deep Learning,100
+2019-04,Deep Learning,100
+2019-05,Deep Learning,99
+2019-06,Deep Learning,99
+2019-07,Deep Learning,97
+2019-08,Deep Learning,100
+2019-09,Deep Learning,99
+2019-10,Deep Learning,100
+2019-11,Deep Learning,100
+2019-12,Deep Learning,100
+2020-01,Deep Learning,100
+2020-02,Deep Learning,99
+2020-03,Deep Learning,100
+2020-04,Deep Learning,100
+2020-05,Deep Learning,100
+2020-06,Deep Learning,100
+2020-07,Deep Learning,100
+2020-08,Deep Learning,99
+2020-09,Deep Learning,100
+2020-10,Deep Learning,100
+2020-11,Deep Learning,100
+2020-12,Deep Learning,99
+2021-01,Deep Learning,100
+2021-02,Deep Learning,100
+2021-03,Deep Learning,98
+2021-04,Deep Learning,97
+2021-05,Deep Learning,100
+2021-06,Deep Learning,100
+2021-07,Deep Learning,100
+2021-08,Deep Learning,100
+2021-09,Deep Learning,98
+2021-10,Deep Learning,98
+2021-11,Deep Learning,97
+2021-12,Deep Learning,99
+2022-01,Deep Learning,100
+2022-02,Deep Learning,98
+2022-03,Deep Learning,100
+2022-04,Deep Learning,100
+2022-05,Deep Learning,100
+2022-06,Deep Learning,100
+2022-07,Deep Learning,100
+2022-08,Deep Learning,100
+2022-09,Deep Learning,100
+2022-10,Deep Learning,98
+2022-11,Deep Learning,99
+2022-12,Deep Learning,98
+2023-01,Deep Learning,99
+2023-02,Deep Learning,100
+2023-03,Deep Learning,99
+2023-04,Deep Learning,100
+2023-05,Deep Learning,98
+2023-06,Deep Learning,98
+2023-07,Deep Learning,100
+2023-08,Deep Learning,99
+2023-09,Deep Learning,100
+2023-10,Deep Learning,100
+2023-11,Deep Learning,99
+2023-12,Deep Learning,99
+2024-01,Deep Learning,100
+2024-02,Deep Learning,100
+2024-03,Deep Learning,99
+2024-04,Deep Learning,100
+2024-05,Deep Learning,100
+2024-06,Deep Learning,100
+2024-07,Deep Learning,98
+2024-08,Deep Learning,100
+2024-09,Deep Learning,100
+2024-10,Deep Learning,100
+2024-11,Deep Learning,100
+2024-12,Deep Learning,100
+2015-01,NLP,23
+2015-02,NLP,27
+2015-03,NLP,31
+2015-04,NLP,35
+2015-05,NLP,36
+2015-06,NLP,37
+2015-07,NLP,40
+2015-08,NLP,41
+2015-09,NLP,41
+2015-10,NLP,43
+2015-11,NLP,45
+2015-12,NLP,46
+2016-01,NLP,45
+2016-02,NLP,49
+2016-03,NLP,51
+2016-04,NLP,50
+2016-05,NLP,54
+2016-06,NLP,53
+2016-07,NLP,56
+2016-08,NLP,55
+2016-09,NLP,56
+2016-10,NLP,56
+2016-11,NLP,58
+2016-12,NLP,57
+2017-01,NLP,60
+2017-02,NLP,61
+2017-03,NLP,63
+2017-04,NLP,62
+2017-05,NLP,66
+2017-06,NLP,68
+2017-07,NLP,72
+2017-08,NLP,73
+2017-09,NLP,76
+2017-10,NLP,76
+2017-11,NLP,75
+2017-12,NLP,78
+2018-01,NLP,82
+2018-02,NLP,82
+2018-03,NLP,82
+2018-04,NLP,80
+2018-05,NLP,84
+2018-06,NLP,84
+2018-07,NLP,84
+2018-08,NLP,87
+2018-09,NLP,88
+2018-10,NLP,87
+2018-11,NLP,86
+2018-12,NLP,86
+2019-01,NLP,90
+2019-02,NLP,88
+2019-03,NLP,90
+2019-04,NLP,90
+2019-05,NLP,93
+2019-06,NLP,94
+2019-07,NLP,98
+2019-08,NLP,98
+2019-09,NLP,100
+2019-10,NLP,100
+2019-11,NLP,100
+2019-12,NLP,100
+2020-01,NLP,100
+2020-02,NLP,100
+2020-03,NLP,98
+2020-04,NLP,96
+2020-05,NLP,99
+2020-06,NLP,100
+2020-07,NLP,100
+2020-08,NLP,100
+2020-09,NLP,100
+2020-10,NLP,99
+2020-11,NLP,100
+2020-12,NLP,100
+2021-01,NLP,100
+2021-02,NLP,100
+2021-03,NLP,100
+2021-04,NLP,100
+2021-05,NLP,100
+2021-06,NLP,99
+2021-07,NLP,100
+2021-08,NLP,99
+2021-09,NLP,97
+2021-10,NLP,97
+2021-11,NLP,96
+2021-12,NLP,98
+2022-01,NLP,99
+2022-02,NLP,100
+2022-03,NLP,99
+2022-04,NLP,100
+2022-05,NLP,100
+2022-06,NLP,98
+2022-07,NLP,97
+2022-08,NLP,95
+2022-09,NLP,96
+2022-10,NLP,97
+2022-11,NLP,99
+2022-12,NLP,97
+2023-01,NLP,96
+2023-02,NLP,98
+2023-03,NLP,100
+2023-04,NLP,98
+2023-05,NLP,100
+2023-06,NLP,100
+2023-07,NLP,100
+2023-08,NLP,100
+2023-09,NLP,100
+2023-10,NLP,100
+2023-11,NLP,100
+2023-12,NLP,98
+2024-01,NLP,100
+2024-02,NLP,98
+2024-03,NLP,97
+2024-04,NLP,96
+2024-05,NLP,96
+2024-06,NLP,97
+2024-07,NLP,100
+2024-08,NLP,100
+2024-09,NLP,100
+2024-10,NLP,100
+2024-11,NLP,100
+2024-12,NLP,100
+2015-01,Computer Vision,56
+2015-02,Computer Vision,58
+2015-03,Computer Vision,59
+2015-04,Computer Vision,62
+2015-05,Computer Vision,61
+2015-06,Computer Vision,61
+2015-07,Computer Vision,63
+2015-08,Computer Vision,62
+2015-09,Computer Vision,63
+2015-10,Computer Vision,63
+2015-11,Computer Vision,67
+2015-12,Computer Vision,68
+2016-01,Computer Vision,72
+2016-02,Computer Vision,72
+2016-03,Computer Vision,70
+2016-04,Computer Vision,73
+2016-05,Computer Vision,77
+2016-06,Computer Vision,78
+2016-07,Computer Vision,79
+2016-08,Computer Vision,81
+2016-09,Computer Vision,82
+2016-10,Computer Vision,83
+2016-11,Computer Vision,87
+2016-12,Computer Vision,87
+2017-01,Computer Vision,87
+2017-02,Computer Vision,88
+2017-03,Computer Vision,89
+2017-04,Computer Vision,88
+2017-05,Computer Vision,87
+2017-06,Computer Vision,85
+2017-07,Computer Vision,85
+2017-08,Computer Vision,88
+2017-09,Computer Vision,91
+2017-10,Computer Vision,92
+2017-11,Computer Vision,93
+2017-12,Computer Vision,94
+2018-01,Computer Vision,97
+2018-02,Computer Vision,100
+2018-03,Computer Vision,100
+2018-04,Computer Vision,100
+2018-05,Computer Vision,99
+2018-06,Computer Vision,97
+2018-07,Computer Vision,100
+2018-08,Computer Vision,100
+2018-09,Computer Vision,99
+2018-10,Computer Vision,100
+2018-11,Computer Vision,100
+2018-12,Computer Vision,99
+2019-01,Computer Vision,100
+2019-02,Computer Vision,98
+2019-03,Computer Vision,98
+2019-04,Computer Vision,99
+2019-05,Computer Vision,98
+2019-06,Computer Vision,100
+2019-07,Computer Vision,100
+2019-08,Computer Vision,100
+2019-09,Computer Vision,100
+2019-10,Computer Vision,100
+2019-11,Computer Vision,100
+2019-12,Computer Vision,100
+2020-01,Computer Vision,98
+2020-02,Computer Vision,97
+2020-03,Computer Vision,99
+2020-04,Computer Vision,100
+2020-05,Computer Vision,100
+2020-06,Computer Vision,100
+2020-07,Computer Vision,100
+2020-08,Computer Vision,100
+2020-09,Computer Vision,100
+2020-10,Computer Vision,100
+2020-11,Computer Vision,100
+2020-12,Computer Vision,99
+2021-01,Computer Vision,97
+2021-02,Computer Vision,96
+2021-03,Computer Vision,94
+2021-04,Computer Vision,95
+2021-05,Computer Vision,93
+2021-06,Computer Vision,93
+2021-07,Computer Vision,97
+2021-08,Computer Vision,100
+2021-09,Computer Vision,100
+2021-10,Computer Vision,100
+2021-11,Computer Vision,100
+2021-12,Computer Vision,99
+2022-01,Computer Vision,100
+2022-02,Computer Vision,100
+2022-03,Computer Vision,99
+2022-04,Computer Vision,100
+2022-05,Computer Vision,100
+2022-06,Computer Vision,100
+2022-07,Computer Vision,98
+2022-08,Computer Vision,97
+2022-09,Computer Vision,96
+2022-10,Computer Vision,97
+2022-11,Computer Vision,96
+2022-12,Computer Vision,96
+2023-01,Computer Vision,99
+2023-02,Computer Vision,100
+2023-03,Computer Vision,100
+2023-04,Computer Vision,100
+2023-05,Computer Vision,100
+2023-06,Computer Vision,100
+2023-07,Computer Vision,98
+2023-08,Computer Vision,96
+2023-09,Computer Vision,95
+2023-10,Computer Vision,96
+2023-11,Computer Vision,96
+2023-12,Computer Vision,94
+2024-01,Computer Vision,95
+2024-02,Computer Vision,95
+2024-03,Computer Vision,95
+2024-04,Computer Vision,94
+2024-05,Computer Vision,97
+2024-06,Computer Vision,99
+2024-07,Computer Vision,100
+2024-08,Computer Vision,100
+2024-09,Computer Vision,100
+2024-10,Computer Vision,100
+2024-11,Computer Vision,100
+2024-12,Computer Vision,100
+2015-01,Robotics,59
+2015-02,Robotics,57
+2015-03,Robotics,57
+2015-04,Robotics,60
+2015-05,Robotics,62
+2015-06,Robotics,63
+2015-07,Robotics,67
+2015-08,Robotics,71
+2015-09,Robotics,75
+2015-10,Robotics,76
+2015-11,Robotics,79
+2015-12,Robotics,80
+2016-01,Robotics,78
+2016-02,Robotics,81
+2016-03,Robotics,82
+2016-04,Robotics,85
+2016-05,Robotics,86
+2016-06,Robotics,84
+2016-07,Robotics,84
+2016-08,Robotics,82
+2016-09,Robotics,80
+2016-10,Robotics,81
+2016-11,Robotics,79
+2016-12,Robotics,79
+2017-01,Robotics,83
+2017-02,Robotics,86
+2017-03,Robotics,89
+2017-04,Robotics,87
+2017-05,Robotics,90
+2017-06,Robotics,89
+2017-07,Robotics,92
+2017-08,Robotics,93
+2017-09,Robotics,97
+2017-10,Robotics,100
+2017-11,Robotics,99
+2017-12,Robotics,100
+2018-01,Robotics,100
+2018-02,Robotics,100
+2018-03,Robotics,100
+2018-04,Robotics,100
+2018-05,Robotics,100
+2018-06,Robotics,100
+2018-07,Robotics,100
+2018-08,Robotics,98
+2018-09,Robotics,97
+2018-10,Robotics,100
+2018-11,Robotics,99
+2018-12,Robotics,99
+2019-01,Robotics,100
+2019-02,Robotics,98
+2019-03,Robotics,96
+2019-04,Robotics,97
+2019-05,Robotics,99
+2019-06,Robotics,100
+2019-07,Robotics,100
+2019-08,Robotics,100
+2019-09,Robotics,100
+2019-10,Robotics,98
+2019-11,Robotics,96
+2019-12,Robotics,100
+2020-01,Robotics,100
+2020-02,Robotics,98
+2020-03,Robotics,100
+2020-04,Robotics,100
+2020-05,Robotics,100
+2020-06,Robotics,100
+2020-07,Robotics,100
+2020-08,Robotics,100
+2020-09,Robotics,98
+2020-10,Robotics,100
+2020-11,Robotics,99
+2020-12,Robotics,100
+2021-01,Robotics,98
+2021-02,Robotics,100
+2021-03,Robotics,100
+2021-04,Robotics,100
+2021-05,Robotics,100
+2021-06,Robotics,100
+2021-07,Robotics,100
+2021-08,Robotics,98
+2021-09,Robotics,100
+2021-10,Robotics,100
+2021-11,Robotics,100
+2021-12,Robotics,100
+2022-01,Robotics,100
+2022-02,Robotics,100
+2022-03,Robotics,98
+2022-04,Robotics,100
+2022-05,Robotics,100
+2022-06,Robotics,99
+2022-07,Robotics,100
+2022-08,Robotics,100
+2022-09,Robotics,99
+2022-10,Robotics,98
+2022-11,Robotics,100
+2022-12,Robotics,100
+2023-01,Robotics,100
+2023-02,Robotics,99
+2023-03,Robotics,100
+2023-04,Robotics,100
+2023-05,Robotics,98
+2023-06,Robotics,97
+2023-07,Robotics,100
+2023-08,Robotics,100
+2023-09,Robotics,100
+2023-10,Robotics,98
+2023-11,Robotics,96
+2023-12,Robotics,95
+2024-01,Robotics,96
+2024-02,Robotics,95
+2024-03,Robotics,94
+2024-04,Robotics,92
+2024-05,Robotics,91
+2024-06,Robotics,95
+2024-07,Robotics,97
+2024-08,Robotics,98
+2024-09,Robotics,97
+2024-10,Robotics,96
+2024-11,Robotics,99
+2024-12,Robotics,100
+2015-01,Edge Computing,37
+2015-02,Edge Computing,39
+2015-03,Edge Computing,38
+2015-04,Edge Computing,36
+2015-05,Edge Computing,35
+2015-06,Edge Computing,37
+2015-07,Edge Computing,40
+2015-08,Edge Computing,39
+2015-09,Edge Computing,37
+2015-10,Edge Computing,36
+2015-11,Edge Computing,38
+2015-12,Edge Computing,37
+2016-01,Edge Computing,38
+2016-02,Edge Computing,38
+2016-03,Edge Computing,38
+2016-04,Edge Computing,40
+2016-05,Edge Computing,42
+2016-06,Edge Computing,46
+2016-07,Edge Computing,44
+2016-08,Edge Computing,48
+2016-09,Edge Computing,48
+2016-10,Edge Computing,51
+2016-11,Edge Computing,49
+2016-12,Edge Computing,48
+2017-01,Edge Computing,50
+2017-02,Edge Computing,49
+2017-03,Edge Computing,48
+2017-04,Edge Computing,49
+2017-05,Edge Computing,49
+2017-06,Edge Computing,47
+2017-07,Edge Computing,48
+2017-08,Edge Computing,48
+2017-09,Edge Computing,49
+2017-10,Edge Computing,53
+2017-11,Edge Computing,54
+2017-12,Edge Computing,55
+2018-01,Edge Computing,58
+2018-02,Edge Computing,60
+2018-03,Edge Computing,58
+2018-04,Edge Computing,60
+2018-05,Edge Computing,63
+2018-06,Edge Computing,61
+2018-07,Edge Computing,63
+2018-08,Edge Computing,65
+2018-09,Edge Computing,63
+2018-10,Edge Computing,64
+2018-11,Edge Computing,63
+2018-12,Edge Computing,66
+2019-01,Edge Computing,67
+2019-02,Edge Computing,70
+2019-03,Edge Computing,74
+2019-04,Edge Computing,72
+2019-05,Edge Computing,74
+2019-06,Edge Computing,75
+2019-07,Edge Computing,79
+2019-08,Edge Computing,79
+2019-09,Edge Computing,83
+2019-10,Edge Computing,85
+2019-11,Edge Computing,89
+2019-12,Edge Computing,88
+2020-01,Edge Computing,87
+2020-02,Edge Computing,85
+2020-03,Edge Computing,87
+2020-04,Edge Computing,89
+2020-05,Edge Computing,87
+2020-06,Edge Computing,85
+2020-07,Edge Computing,86
+2020-08,Edge Computing,87
+2020-09,Edge Computing,89
+2020-10,Edge Computing,93
+2020-11,Edge Computing,96
+2020-12,Edge Computing,95
+2021-01,Edge Computing,97
+2021-02,Edge Computing,98
+2021-03,Edge Computing,99
+2021-04,Edge Computing,98
+2021-05,Edge Computing,96
+2021-06,Edge Computing,94
+2021-07,Edge Computing,94
+2021-08,Edge Computing,95
+2021-09,Edge Computing,94
+2021-10,Edge Computing,97
+2021-11,Edge Computing,98
+2021-12,Edge Computing,98
+2022-01,Edge Computing,97
+2022-02,Edge Computing,98
+2022-03,Edge Computing,97
+2022-04,Edge Computing,98
+2022-05,Edge Computing,100
+2022-06,Edge Computing,100
+2022-07,Edge Computing,100
+2022-08,Edge Computing,100
+2022-09,Edge Computing,100
+2022-10,Edge Computing,100
+2022-11,Edge Computing,98
+2022-12,Edge Computing,99
+2023-01,Edge Computing,97
+2023-02,Edge Computing,95
+2023-03,Edge Computing,99
+2023-04,Edge Computing,99
+2023-05,Edge Computing,100
+2023-06,Edge Computing,99
+2023-07,Edge Computing,100
+2023-08,Edge Computing,100
+2023-09,Edge Computing,99
+2023-10,Edge Computing,97
+2023-11,Edge Computing,100
+2023-12,Edge Computing,99
+2024-01,Edge Computing,100
+2024-02,Edge Computing,99
+2024-03,Edge Computing,99
+2024-04,Edge Computing,98
+2024-05,Edge Computing,98
+2024-06,Edge Computing,100
+2024-07,Edge Computing,99
+2024-08,Edge Computing,100
+2024-09,Edge Computing,100
+2024-10,Edge Computing,100
+2024-11,Edge Computing,100
+2024-12,Edge Computing,100
+2015-01,Blockchain,19
+2015-02,Blockchain,17
+2015-03,Blockchain,19
+2015-04,Blockchain,17
+2015-05,Blockchain,16
+2015-06,Blockchain,14
+2015-07,Blockchain,14
+2015-08,Blockchain,12
+2015-09,Blockchain,16
+2015-10,Blockchain,15
+2015-11,Blockchain,15
+2015-12,Blockchain,17
+2016-01,Blockchain,19
+2016-02,Blockchain,17
+2016-03,Blockchain,20
+2016-04,Blockchain,18
+2016-05,Blockchain,21
+2016-06,Blockchain,24
+2016-07,Blockchain,22
+2016-08,Blockchain,23
+2016-09,Blockchain,21
+2016-10,Blockchain,19
+2016-11,Blockchain,19
+2016-12,Blockchain,18
+2017-01,Blockchain,18
+2017-02,Blockchain,21
+2017-03,Blockchain,22
+2017-04,Blockchain,22
+2017-05,Blockchain,25
+2017-06,Blockchain,23
+2017-07,Blockchain,23
+2017-08,Blockchain,24
+2017-09,Blockchain,26
+2017-10,Blockchain,29
+2017-11,Blockchain,29
+2017-12,Blockchain,28
+2018-01,Blockchain,28
+2018-02,Blockchain,29
+2018-03,Blockchain,31
+2018-04,Blockchain,35
+2018-05,Blockchain,38
+2018-06,Blockchain,41
+2018-07,Blockchain,42
+2018-08,Blockchain,43
+2018-09,Blockchain,43
+2018-10,Blockchain,47
+2018-11,Blockchain,48
+2018-12,Blockchain,49
+2019-01,Blockchain,51
+2019-02,Blockchain,52
+2019-03,Blockchain,53
+2019-04,Blockchain,54
+2019-05,Blockchain,54
+2019-06,Blockchain,54
+2019-07,Blockchain,58
+2019-08,Blockchain,56
+2019-09,Blockchain,57
+2019-10,Blockchain,61
+2019-11,Blockchain,62
+2019-12,Blockchain,62
+2020-01,Blockchain,66
+2020-02,Blockchain,64
+2020-03,Blockchain,63
+2020-04,Blockchain,64
+2020-05,Blockchain,62
+2020-06,Blockchain,61
+2020-07,Blockchain,63
+2020-08,Blockchain,62
+2020-09,Blockchain,61
+2020-10,Blockchain,62
+2020-11,Blockchain,64
+2020-12,Blockchain,62
+2021-01,Blockchain,62
+2021-02,Blockchain,66
+2021-03,Blockchain,70
+2021-04,Blockchain,73
+2021-05,Blockchain,76
+2021-06,Blockchain,77
+2021-07,Blockchain,79
+2021-08,Blockchain,83
+2021-09,Blockchain,85
+2021-10,Blockchain,83
+2021-11,Blockchain,85
+2021-12,Blockchain,88
+2022-01,Blockchain,92
+2022-02,Blockchain,91
+2022-03,Blockchain,95
+2022-04,Blockchain,94
+2022-05,Blockchain,98
+2022-06,Blockchain,96
+2022-07,Blockchain,98
+2022-08,Blockchain,100
+2022-09,Blockchain,100
+2022-10,Blockchain,99
+2022-11,Blockchain,97
+2022-12,Blockchain,96
+2023-01,Blockchain,100
+2023-02,Blockchain,100
+2023-03,Blockchain,99
+2023-04,Blockchain,100
+2023-05,Blockchain,100
+2023-06,Blockchain,98
+2023-07,Blockchain,100
+2023-08,Blockchain,100
+2023-09,Blockchain,99
+2023-10,Blockchain,100
+2023-11,Blockchain,100
+2023-12,Blockchain,100
+2024-01,Blockchain,100
+2024-02,Blockchain,100
+2024-03,Blockchain,100
+2024-04,Blockchain,100
+2024-05,Blockchain,100
+2024-06,Blockchain,100
+2024-07,Blockchain,100
+2024-08,Blockchain,100
+2024-09,Blockchain,100
+2024-10,Blockchain,100
+2024-11,Blockchain,99
+2024-12,Blockchain,99
+2015-01,Cybersecurity,26
+2015-02,Cybersecurity,28
+2015-03,Cybersecurity,31
+2015-04,Cybersecurity,30
+2015-05,Cybersecurity,30
+2015-06,Cybersecurity,29
+2015-07,Cybersecurity,27
+2015-08,Cybersecurity,28
+2015-09,Cybersecurity,26
+2015-10,Cybersecurity,30
+2015-11,Cybersecurity,32
+2015-12,Cybersecurity,30
+2016-01,Cybersecurity,34
+2016-02,Cybersecurity,33
+2016-03,Cybersecurity,31
+2016-04,Cybersecurity,35
+2016-05,Cybersecurity,33
+2016-06,Cybersecurity,37
+2016-07,Cybersecurity,37
+2016-08,Cybersecurity,38
+2016-09,Cybersecurity,36
+2016-10,Cybersecurity,39
+2016-11,Cybersecurity,41
+2016-12,Cybersecurity,40
+2017-01,Cybersecurity,43
+2017-02,Cybersecurity,46
+2017-03,Cybersecurity,50
+2017-04,Cybersecurity,49
+2017-05,Cybersecurity,50
+2017-06,Cybersecurity,54
+2017-07,Cybersecurity,55
+2017-08,Cybersecurity,53
+2017-09,Cybersecurity,57
+2017-10,Cybersecurity,56
+2017-11,Cybersecurity,58
+2017-12,Cybersecurity,58
+2018-01,Cybersecurity,56
+2018-02,Cybersecurity,60
+2018-03,Cybersecurity,64
+2018-04,Cybersecurity,64
+2018-05,Cybersecurity,62
+2018-06,Cybersecurity,61
+2018-07,Cybersecurity,63
+2018-08,Cybersecurity,64
+2018-09,Cybersecurity,62
+2018-10,Cybersecurity,61
+2018-11,Cybersecurity,60
+2018-12,Cybersecurity,62
+2019-01,Cybersecurity,62
+2019-02,Cybersecurity,66
+2019-03,Cybersecurity,69
+2019-04,Cybersecurity,73
+2019-05,Cybersecurity,72
+2019-06,Cybersecurity,70
+2019-07,Cybersecurity,73
+2019-08,Cybersecurity,77
+2019-09,Cybersecurity,75
+2019-10,Cybersecurity,75
+2019-11,Cybersecurity,77
+2019-12,Cybersecurity,80
+2020-01,Cybersecurity,84
+2020-02,Cybersecurity,87
+2020-03,Cybersecurity,87
+2020-04,Cybersecurity,90
+2020-05,Cybersecurity,88
+2020-06,Cybersecurity,90
+2020-07,Cybersecurity,89
+2020-08,Cybersecurity,88
+2020-09,Cybersecurity,89
+2020-10,Cybersecurity,93
+2020-11,Cybersecurity,95
+2020-12,Cybersecurity,95
+2021-01,Cybersecurity,99
+2021-02,Cybersecurity,100
+2021-03,Cybersecurity,100
+2021-04,Cybersecurity,100
+2021-05,Cybersecurity,100
+2021-06,Cybersecurity,99
+2021-07,Cybersecurity,100
+2021-08,Cybersecurity,100
+2021-09,Cybersecurity,99
+2021-10,Cybersecurity,98
+2021-11,Cybersecurity,100
+2021-12,Cybersecurity,100
+2022-01,Cybersecurity,100
+2022-02,Cybersecurity,100
+2022-03,Cybersecurity,100
+2022-04,Cybersecurity,98
+2022-05,Cybersecurity,100
+2022-06,Cybersecurity,100
+2022-07,Cybersecurity,99
+2022-08,Cybersecurity,100
+2022-09,Cybersecurity,100
+2022-10,Cybersecurity,98
+2022-11,Cybersecurity,97
+2022-12,Cybersecurity,100
+2023-01,Cybersecurity,98
+2023-02,Cybersecurity,100
+2023-03,Cybersecurity,100
+2023-04,Cybersecurity,98
+2023-05,Cybersecurity,96
+2023-06,Cybersecurity,98
+2023-07,Cybersecurity,99
+2023-08,Cybersecurity,100
+2023-09,Cybersecurity,99
+2023-10,Cybersecurity,98
+2023-11,Cybersecurity,100
+2023-12,Cybersecurity,100
+2024-01,Cybersecurity,100
+2024-02,Cybersecurity,99
+2024-03,Cybersecurity,100
+2024-04,Cybersecurity,99
+2024-05,Cybersecurity,100
+2024-06,Cybersecurity,100
+2024-07,Cybersecurity,100
+2024-08,Cybersecurity,99
+2024-09,Cybersecurity,100
+2024-10,Cybersecurity,100
+2024-11,Cybersecurity,98
+2024-12,Cybersecurity,100
+2015-01,Quantum Computing,54
+2015-02,Quantum Computing,55
+2015-03,Quantum Computing,59
+2015-04,Quantum Computing,59
+2015-05,Quantum Computing,58
+2015-06,Quantum Computing,60
+2015-07,Quantum Computing,60
+2015-08,Quantum Computing,61
+2015-09,Quantum Computing,65
+2015-10,Quantum Computing,64
+2015-11,Quantum Computing,66
+2015-12,Quantum Computing,69
+2016-01,Quantum Computing,72
+2016-02,Quantum Computing,76
+2016-03,Quantum Computing,78
+2016-04,Quantum Computing,82
+2016-05,Quantum Computing,82
+2016-06,Quantum Computing,86
+2016-07,Quantum Computing,90
+2016-08,Quantum Computing,93
+2016-09,Quantum Computing,96
+2016-10,Quantum Computing,98
+2016-11,Quantum Computing,97
+2016-12,Quantum Computing,97
+2017-01,Quantum Computing,100
+2017-02,Quantum Computing,100
+2017-03,Quantum Computing,100
+2017-04,Quantum Computing,100
+2017-05,Quantum Computing,98
+2017-06,Quantum Computing,100
+2017-07,Quantum Computing,99
+2017-08,Quantum Computing,99
+2017-09,Quantum Computing,98
+2017-10,Quantum Computing,98
+2017-11,Quantum Computing,99
+2017-12,Quantum Computing,100
+2018-01,Quantum Computing,99
+2018-02,Quantum Computing,97
+2018-03,Quantum Computing,98
+2018-04,Quantum Computing,99
+2018-05,Quantum Computing,100
+2018-06,Quantum Computing,99
+2018-07,Quantum Computing,97
+2018-08,Quantum Computing,100
+2018-09,Quantum Computing,100
+2018-10,Quantum Computing,100
+2018-11,Quantum Computing,99
+2018-12,Quantum Computing,97
+2019-01,Quantum Computing,97
+2019-02,Quantum Computing,97
+2019-03,Quantum Computing,97
+2019-04,Quantum Computing,97
+2019-05,Quantum Computing,97
+2019-06,Quantum Computing,98
+2019-07,Quantum Computing,98
+2019-08,Quantum Computing,100
+2019-09,Quantum Computing,100
+2019-10,Quantum Computing,100
+2019-11,Quantum Computing,100
+2019-12,Quantum Computing,100
+2020-01,Quantum Computing,99
+2020-02,Quantum Computing,100
+2020-03,Quantum Computing,99
+2020-04,Quantum Computing,100
+2020-05,Quantum Computing,98
+2020-06,Quantum Computing,100
+2020-07,Quantum Computing,99
+2020-08,Quantum Computing,97
+2020-09,Quantum Computing,96
+2020-10,Quantum Computing,97
+2020-11,Quantum Computing,96
+2020-12,Quantum Computing,94
+2021-01,Quantum Computing,98
+2021-02,Quantum Computing,99
+2021-03,Quantum Computing,97
+2021-04,Quantum Computing,96
+2021-05,Quantum Computing,98
+2021-06,Quantum Computing,99
+2021-07,Quantum Computing,98
+2021-08,Quantum Computing,100
+2021-09,Quantum Computing,100
+2021-10,Quantum Computing,100
+2021-11,Quantum Computing,100
+2021-12,Quantum Computing,100
+2022-01,Quantum Computing,98
+2022-02,Quantum Computing,97
+2022-03,Quantum Computing,98
+2022-04,Quantum Computing,99
+2022-05,Quantum Computing,100
+2022-06,Quantum Computing,99
+2022-07,Quantum Computing,100
+2022-08,Quantum Computing,100
+2022-09,Quantum Computing,98
+2022-10,Quantum Computing,100
+2022-11,Quantum Computing,100
+2022-12,Quantum Computing,100
+2023-01,Quantum Computing,100
+2023-02,Quantum Computing,99
+2023-03,Quantum Computing,100
+2023-04,Quantum Computing,100
+2023-05,Quantum Computing,100
+2023-06,Quantum Computing,98
+2023-07,Quantum Computing,100
+2023-08,Quantum Computing,100
+2023-09,Quantum Computing,98
+2023-10,Quantum Computing,99
+2023-11,Quantum Computing,97
+2023-12,Quantum Computing,100
+2024-01,Quantum Computing,100
+2024-02,Quantum Computing,100
+2024-03,Quantum Computing,98
+2024-04,Quantum Computing,100
+2024-05,Quantum Computing,100
+2024-06,Quantum Computing,100
+2024-07,Quantum Computing,100
+2024-08,Quantum Computing,100
+2024-09,Quantum Computing,100
+2024-10,Quantum Computing,100
+2024-11,Quantum Computing,99
+2024-12,Quantum Computing,100
+2015-01,Data Engineering,43
+2015-02,Data Engineering,41
+2015-03,Data Engineering,40
+2015-04,Data Engineering,44
+2015-05,Data Engineering,48
+2015-06,Data Engineering,49
+2015-07,Data Engineering,49
+2015-08,Data Engineering,47
+2015-09,Data Engineering,48
+2015-10,Data Engineering,51
+2015-11,Data Engineering,53
+2015-12,Data Engineering,55
+2016-01,Data Engineering,58
+2016-02,Data Engineering,60
+2016-03,Data Engineering,58
+2016-04,Data Engineering,57
+2016-05,Data Engineering,59
+2016-06,Data Engineering,60
+2016-07,Data Engineering,59
+2016-08,Data Engineering,62
+2016-09,Data Engineering,64
+2016-10,Data Engineering,67
+2016-11,Data Engineering,69
+2016-12,Data Engineering,68
+2017-01,Data Engineering,68
+2017-02,Data Engineering,70
+2017-03,Data Engineering,70
+2017-04,Data Engineering,74
+2017-05,Data Engineering,75
+2017-06,Data Engineering,75
+2017-07,Data Engineering,78
+2017-08,Data Engineering,76
+2017-09,Data Engineering,75
+2017-10,Data Engineering,79
+2017-11,Data Engineering,78
+2017-12,Data Engineering,79
+2018-01,Data Engineering,79
+2018-02,Data Engineering,79
+2018-03,Data Engineering,77
+2018-04,Data Engineering,79
+2018-05,Data Engineering,79
+2018-06,Data Engineering,81
+2018-07,Data Engineering,80
+2018-08,Data Engineering,78
+2018-09,Data Engineering,81
+2018-10,Data Engineering,82
+2018-11,Data Engineering,82
+2018-12,Data Engineering,82
+2019-01,Data Engineering,83
+2019-02,Data Engineering,81
+2019-03,Data Engineering,85
+2019-04,Data Engineering,84
+2019-05,Data Engineering,83
+2019-06,Data Engineering,86
+2019-07,Data Engineering,85
+2019-08,Data Engineering,84
+2019-09,Data Engineering,88
+2019-10,Data Engineering,88
+2019-11,Data Engineering,87
+2019-12,Data Engineering,88
+2020-01,Data Engineering,87
+2020-02,Data Engineering,89
+2020-03,Data Engineering,87
+2020-04,Data Engineering,91
+2020-05,Data Engineering,92
+2020-06,Data Engineering,96
+2020-07,Data Engineering,100
+2020-08,Data Engineering,100
+2020-09,Data Engineering,100
+2020-10,Data Engineering,100
+2020-11,Data Engineering,100
+2020-12,Data Engineering,100
+2021-01,Data Engineering,100
+2021-02,Data Engineering,100
+2021-03,Data Engineering,100
+2021-04,Data Engineering,100
+2021-05,Data Engineering,100
+2021-06,Data Engineering,100
+2021-07,Data Engineering,100
+2021-08,Data Engineering,98
+2021-09,Data Engineering,100
+2021-10,Data Engineering,100
+2021-11,Data Engineering,100
+2021-12,Data Engineering,100
+2022-01,Data Engineering,100
+2022-02,Data Engineering,100
+2022-03,Data Engineering,100
+2022-04,Data Engineering,100
+2022-05,Data Engineering,100
+2022-06,Data Engineering,100
+2022-07,Data Engineering,100
+2022-08,Data Engineering,100
+2022-09,Data Engineering,100
+2022-10,Data Engineering,100
+2022-11,Data Engineering,100
+2022-12,Data Engineering,100
+2023-01,Data Engineering,98
+2023-02,Data Engineering,100
+2023-03,Data Engineering,100
+2023-04,Data Engineering,98
+2023-05,Data Engineering,97
+2023-06,Data Engineering,97
+2023-07,Data Engineering,100
+2023-08,Data Engineering,98
+2023-09,Data Engineering,99
+2023-10,Data Engineering,97
+2023-11,Data Engineering,95
+2023-12,Data Engineering,96
+2024-01,Data Engineering,95
+2024-02,Data Engineering,95
+2024-03,Data Engineering,96
+2024-04,Data Engineering,99
+2024-05,Data Engineering,100
+2024-06,Data Engineering,98
+2024-07,Data Engineering,96
+2024-08,Data Engineering,96
+2024-09,Data Engineering,96
+2024-10,Data Engineering,94
+2024-11,Data Engineering,97
+2024-12,Data Engineering,99
+2015-01,Cloud Computing,44
+2015-02,Cloud Computing,42
+2015-03,Cloud Computing,41
+2015-04,Cloud Computing,45
+2015-05,Cloud Computing,45
+2015-06,Cloud Computing,44
+2015-07,Cloud Computing,48
+2015-08,Cloud Computing,50
+2015-09,Cloud Computing,49
+2015-10,Cloud Computing,48
+2015-11,Cloud Computing,52
+2015-12,Cloud Computing,56
+2016-01,Cloud Computing,56
+2016-02,Cloud Computing,59
+2016-03,Cloud Computing,61
+2016-04,Cloud Computing,61
+2016-05,Cloud Computing,60
+2016-06,Cloud Computing,59
+2016-07,Cloud Computing,59
+2016-08,Cloud Computing,58
+2016-09,Cloud Computing,59
+2016-10,Cloud Computing,60
+2016-11,Cloud Computing,59
+2016-12,Cloud Computing,59
+2017-01,Cloud Computing,62
+2017-02,Cloud Computing,62
+2017-03,Cloud Computing,63
+2017-04,Cloud Computing,61
+2017-05,Cloud Computing,62
+2017-06,Cloud Computing,63
+2017-07,Cloud Computing,65
+2017-08,Cloud Computing,66
+2017-09,Cloud Computing,67
+2017-10,Cloud Computing,66
+2017-11,Cloud Computing,69
+2017-12,Cloud Computing,73
+2018-01,Cloud Computing,75
+2018-02,Cloud Computing,79
+2018-03,Cloud Computing,81
+2018-04,Cloud Computing,84
+2018-05,Cloud Computing,88
+2018-06,Cloud Computing,86
+2018-07,Cloud Computing,84
+2018-08,Cloud Computing,86
+2018-09,Cloud Computing,86
+2018-10,Cloud Computing,84
+2018-11,Cloud Computing,83
+2018-12,Cloud Computing,87
+2019-01,Cloud Computing,91
+2019-02,Cloud Computing,93
+2019-03,Cloud Computing,91
+2019-04,Cloud Computing,94
+2019-05,Cloud Computing,93
+2019-06,Cloud Computing,92
+2019-07,Cloud Computing,93
+2019-08,Cloud Computing,91
+2019-09,Cloud Computing,93
+2019-10,Cloud Computing,92
+2019-11,Cloud Computing,96
+2019-12,Cloud Computing,100
+2020-01,Cloud Computing,100
+2020-02,Cloud Computing,99
+2020-03,Cloud Computing,100
+2020-04,Cloud Computing,100
+2020-05,Cloud Computing,100
+2020-06,Cloud Computing,100
+2020-07,Cloud Computing,99
+2020-08,Cloud Computing,99
+2020-09,Cloud Computing,100
+2020-10,Cloud Computing,100
+2020-11,Cloud Computing,100
+2020-12,Cloud Computing,98
+2021-01,Cloud Computing,96
+2021-02,Cloud Computing,94
+2021-03,Cloud Computing,94
+2021-04,Cloud Computing,92
+2021-05,Cloud Computing,96
+2021-06,Cloud Computing,99
+2021-07,Cloud Computing,100
+2021-08,Cloud Computing,100
+2021-09,Cloud Computing,100
+2021-10,Cloud Computing,99
+2021-11,Cloud Computing,100
+2021-12,Cloud Computing,100
+2022-01,Cloud Computing,100
+2022-02,Cloud Computing,100
+2022-03,Cloud Computing,100
+2022-04,Cloud Computing,100
+2022-05,Cloud Computing,100
+2022-06,Cloud Computing,100
+2022-07,Cloud Computing,100
+2022-08,Cloud Computing,100
+2022-09,Cloud Computing,100
+2022-10,Cloud Computing,100
+2022-11,Cloud Computing,100
+2022-12,Cloud Computing,100
+2023-01,Cloud Computing,100
+2023-02,Cloud Computing,99
+2023-03,Cloud Computing,98
+2023-04,Cloud Computing,100
+2023-05,Cloud Computing,100
+2023-06,Cloud Computing,100
+2023-07,Cloud Computing,100
+2023-08,Cloud Computing,100
+2023-09,Cloud Computing,100
+2023-10,Cloud Computing,99
+2023-11,Cloud Computing,97
+2023-12,Cloud Computing,99
+2024-01,Cloud Computing,100
+2024-02,Cloud Computing,100
+2024-03,Cloud Computing,100
+2024-04,Cloud Computing,100
+2024-05,Cloud Computing,99
+2024-06,Cloud Computing,98
+2024-07,Cloud Computing,100
+2024-08,Cloud Computing,100
+2024-09,Cloud Computing,100
+2024-10,Cloud Computing,100
+2024-11,Cloud Computing,100
+2024-12,Cloud Computing,98
+2015-01,AR/VR,54
+2015-02,AR/VR,56
+2015-03,AR/VR,60
+2015-04,AR/VR,61
+2015-05,AR/VR,63
+2015-06,AR/VR,67
+2015-07,AR/VR,68
+2015-08,AR/VR,72
+2015-09,AR/VR,71
+2015-10,AR/VR,69
+2015-11,AR/VR,71
+2015-12,AR/VR,71
+2016-01,AR/VR,72
+2016-02,AR/VR,72
+2016-03,AR/VR,76
+2016-04,AR/VR,74
+2016-05,AR/VR,76
+2016-06,AR/VR,79
+2016-07,AR/VR,79
+2016-08,AR/VR,82
+2016-09,AR/VR,82
+2016-10,AR/VR,83
+2016-11,AR/VR,83
+2016-12,AR/VR,83
+2017-01,AR/VR,85
+2017-02,AR/VR,84
+2017-03,AR/VR,83
+2017-04,AR/VR,87
+2017-05,AR/VR,85
+2017-06,AR/VR,88
+2017-07,AR/VR,87
+2017-08,AR/VR,91
+2017-09,AR/VR,91
+2017-10,AR/VR,89
+2017-11,AR/VR,87
+2017-12,AR/VR,85
+2018-01,AR/VR,85
+2018-02,AR/VR,84
+2018-03,AR/VR,85
+2018-04,AR/VR,84
+2018-05,AR/VR,88
+2018-06,AR/VR,89
+2018-07,AR/VR,88
+2018-08,AR/VR,90
+2018-09,AR/VR,88
+2018-10,AR/VR,89
+2018-11,AR/VR,87
+2018-12,AR/VR,85
+2019-01,AR/VR,89
+2019-02,AR/VR,91
+2019-03,AR/VR,92
+2019-04,AR/VR,96
+2019-05,AR/VR,100
+2019-06,AR/VR,100
+2019-07,AR/VR,99
+2019-08,AR/VR,99
+2019-09,AR/VR,100
+2019-10,AR/VR,98
+2019-11,AR/VR,97
+2019-12,AR/VR,100
+2020-01,AR/VR,98
+2020-02,AR/VR,100
+2020-03,AR/VR,98
+2020-04,AR/VR,98
+2020-05,AR/VR,100
+2020-06,AR/VR,98
+2020-07,AR/VR,96
+2020-08,AR/VR,94
+2020-09,AR/VR,98
+2020-10,AR/VR,96
+2020-11,AR/VR,94
+2020-12,AR/VR,95
+2021-01,AR/VR,96
+2021-02,AR/VR,95
+2021-03,AR/VR,96
+2021-04,AR/VR,97
+2021-05,AR/VR,100
+2021-06,AR/VR,100
+2021-07,AR/VR,100
+2021-08,AR/VR,100
+2021-09,AR/VR,100
+2021-10,AR/VR,100
+2021-11,AR/VR,100
+2021-12,AR/VR,100
+2022-01,AR/VR,99
+2022-02,AR/VR,100
+2022-03,AR/VR,98
+2022-04,AR/VR,96
+2022-05,AR/VR,99
+2022-06,AR/VR,100
+2022-07,AR/VR,100
+2022-08,AR/VR,100
+2022-09,AR/VR,100
+2022-10,AR/VR,100
+2022-11,AR/VR,100
+2022-12,AR/VR,100
+2023-01,AR/VR,100
+2023-02,AR/VR,99
+2023-03,AR/VR,100
+2023-04,AR/VR,99
+2023-05,AR/VR,97
+2023-06,AR/VR,99
+2023-07,AR/VR,100
+2023-08,AR/VR,100
+2023-09,AR/VR,100
+2023-10,AR/VR,100
+2023-11,AR/VR,100
+2023-12,AR/VR,100
+2024-01,AR/VR,100
+2024-02,AR/VR,100
+2024-03,AR/VR,99
+2024-04,AR/VR,100
+2024-05,AR/VR,98
+2024-06,AR/VR,97
+2024-07,AR/VR,100
+2024-08,AR/VR,100
+2024-09,AR/VR,100
+2024-10,AR/VR,100
+2024-11,AR/VR,100
+2024-12,AR/VR,100
+2015-01,Metaverse,59
+2015-02,Metaverse,58
+2015-03,Metaverse,57
+2015-04,Metaverse,60
+2015-05,Metaverse,59
+2015-06,Metaverse,61
+2015-07,Metaverse,62
+2015-08,Metaverse,66
+2015-09,Metaverse,65
+2015-10,Metaverse,63
+2015-11,Metaverse,63
+2015-12,Metaverse,67
+2016-01,Metaverse,69
+2016-02,Metaverse,70
+2016-03,Metaverse,74
+2016-04,Metaverse,76
+2016-05,Metaverse,75
+2016-06,Metaverse,75
+2016-07,Metaverse,78
+2016-08,Metaverse,78
+2016-09,Metaverse,79
+2016-10,Metaverse,77
+2016-11,Metaverse,79
+2016-12,Metaverse,79
+2017-01,Metaverse,78
+2017-02,Metaverse,78
+2017-03,Metaverse,79
+2017-04,Metaverse,78
+2017-05,Metaverse,82
+2017-06,Metaverse,83
+2017-07,Metaverse,82
+2017-08,Metaverse,84
+2017-09,Metaverse,85
+2017-10,Metaverse,83
+2017-11,Metaverse,82
+2017-12,Metaverse,81
+2018-01,Metaverse,81
+2018-02,Metaverse,80
+2018-03,Metaverse,84
+2018-04,Metaverse,84
+2018-05,Metaverse,86
+2018-06,Metaverse,86
+2018-07,Metaverse,86
+2018-08,Metaverse,88
+2018-09,Metaverse,90
+2018-10,Metaverse,90
+2018-11,Metaverse,94
+2018-12,Metaverse,95
+2019-01,Metaverse,93
+2019-02,Metaverse,96
+2019-03,Metaverse,100
+2019-04,Metaverse,100
+2019-05,Metaverse,100
+2019-06,Metaverse,98
+2019-07,Metaverse,100
+2019-08,Metaverse,99
+2019-09,Metaverse,99
+2019-10,Metaverse,99
+2019-11,Metaverse,100
+2019-12,Metaverse,98
+2020-01,Metaverse,100
+2020-02,Metaverse,100
+2020-03,Metaverse,100
+2020-04,Metaverse,100
+2020-05,Metaverse,99
+2020-06,Metaverse,100
+2020-07,Metaverse,100
+2020-08,Metaverse,100
+2020-09,Metaverse,100
+2020-10,Metaverse,100
+2020-11,Metaverse,98
+2020-12,Metaverse,96
+2021-01,Metaverse,96
+2021-02,Metaverse,98
+2021-03,Metaverse,96
+2021-04,Metaverse,96
+2021-05,Metaverse,94
+2021-06,Metaverse,98
+2021-07,Metaverse,100
+2021-08,Metaverse,100
+2021-09,Metaverse,98
+2021-10,Metaverse,97
+2021-11,Metaverse,99
+2021-12,Metaverse,100
+2022-01,Metaverse,100
+2022-02,Metaverse,100
+2022-03,Metaverse,98
+2022-04,Metaverse,97
+2022-05,Metaverse,100
+2022-06,Metaverse,100
+2022-07,Metaverse,100
+2022-08,Metaverse,100
+2022-09,Metaverse,100
+2022-10,Metaverse,100
+2022-11,Metaverse,98
+2022-12,Metaverse,97
+2023-01,Metaverse,96
+2023-02,Metaverse,94
+2023-03,Metaverse,96
+2023-04,Metaverse,97
+2023-05,Metaverse,100
+2023-06,Metaverse,100
+2023-07,Metaverse,100
+2023-08,Metaverse,100
+2023-09,Metaverse,100
+2023-10,Metaverse,100
+2023-11,Metaverse,100
+2023-12,Metaverse,100
+2024-01,Metaverse,99
+2024-02,Metaverse,97
+2024-03,Metaverse,100
+2024-04,Metaverse,100
+2024-05,Metaverse,100
+2024-06,Metaverse,98
+2024-07,Metaverse,100
+2024-08,Metaverse,100
+2024-09,Metaverse,100
+2024-10,Metaverse,98
+2024-11,Metaverse,98
+2024-12,Metaverse,99
+2015-01,IoT,34
+2015-02,IoT,38
+2015-03,IoT,37
+2015-04,IoT,38
+2015-05,IoT,36
+2015-06,IoT,40
+2015-07,IoT,42
+2015-08,IoT,42
+2015-09,IoT,42
+2015-10,IoT,46
+2015-11,IoT,50
+2015-12,IoT,53
+2016-01,IoT,51
+2016-02,IoT,54
+2016-03,IoT,57
+2016-04,IoT,59
+2016-05,IoT,59
+2016-06,IoT,59
+2016-07,IoT,63
+2016-08,IoT,65
+2016-09,IoT,68
+2016-10,IoT,67
+2016-11,IoT,70
+2016-12,IoT,69
+2017-01,IoT,68
+2017-02,IoT,70
+2017-03,IoT,73
+2017-04,IoT,72
+2017-05,IoT,71
+2017-06,IoT,70
+2017-07,IoT,74
+2017-08,IoT,76
+2017-09,IoT,78
+2017-10,IoT,80
+2017-11,IoT,81
+2017-12,IoT,85
+2018-01,IoT,86
+2018-02,IoT,85
+2018-03,IoT,88
+2018-04,IoT,88
+2018-05,IoT,91
+2018-06,IoT,94
+2018-07,IoT,98
+2018-08,IoT,100
+2018-09,IoT,100
+2018-10,IoT,100
+2018-11,IoT,99
+2018-12,IoT,98
+2019-01,IoT,96
+2019-02,IoT,97
+2019-03,IoT,100
+2019-04,IoT,100
+2019-05,IoT,100
+2019-06,IoT,98
+2019-07,IoT,98
+2019-08,IoT,100
+2019-09,IoT,100
+2019-10,IoT,100
+2019-11,IoT,100
+2019-12,IoT,100
+2020-01,IoT,100
+2020-02,IoT,100
+2020-03,IoT,100
+2020-04,IoT,100
+2020-05,IoT,100
+2020-06,IoT,99
+2020-07,IoT,100
+2020-08,IoT,100
+2020-09,IoT,100
+2020-10,IoT,100
+2020-11,IoT,100
+2020-12,IoT,100
+2021-01,IoT,100
+2021-02,IoT,98
+2021-03,IoT,100
+2021-04,IoT,100
+2021-05,IoT,98
+2021-06,IoT,100
+2021-07,IoT,100
+2021-08,IoT,99
+2021-09,IoT,100
+2021-10,IoT,100
+2021-11,IoT,100
+2021-12,IoT,100
+2022-01,IoT,100
+2022-02,IoT,100
+2022-03,IoT,100
+2022-04,IoT,100
+2022-05,IoT,100
+2022-06,IoT,99
+2022-07,IoT,100
+2022-08,IoT,100
+2022-09,IoT,99
+2022-10,IoT,100
+2022-11,IoT,100
+2022-12,IoT,99
+2023-01,IoT,100
+2023-02,IoT,98
+2023-03,IoT,100
+2023-04,IoT,100
+2023-05,IoT,100
+2023-06,IoT,100
+2023-07,IoT,100
+2023-08,IoT,100
+2023-09,IoT,98
+2023-10,IoT,100
+2023-11,IoT,100
+2023-12,IoT,100
+2024-01,IoT,100
+2024-02,IoT,98
+2024-03,IoT,100
+2024-04,IoT,100
+2024-05,IoT,100
+2024-06,IoT,100
+2024-07,IoT,100
+2024-08,IoT,100
+2024-09,IoT,98
+2024-10,IoT,96
+2024-11,IoT,100
+2024-12,IoT,100
+2015-01,Autonomous Vehicles,28
+2015-02,Autonomous Vehicles,32
+2015-03,Autonomous Vehicles,34
+2015-04,Autonomous Vehicles,35
+2015-05,Autonomous Vehicles,35
+2015-06,Autonomous Vehicles,37
+2015-07,Autonomous Vehicles,37
+2015-08,Autonomous Vehicles,36
+2015-09,Autonomous Vehicles,37
+2015-10,Autonomous Vehicles,36
+2015-11,Autonomous Vehicles,39
+2015-12,Autonomous Vehicles,43
+2016-01,Autonomous Vehicles,42
+2016-02,Autonomous Vehicles,46
+2016-03,Autonomous Vehicles,45
+2016-04,Autonomous Vehicles,48
+2016-05,Autonomous Vehicles,50
+2016-06,Autonomous Vehicles,48
+2016-07,Autonomous Vehicles,51
+2016-08,Autonomous Vehicles,52
+2016-09,Autonomous Vehicles,55
+2016-10,Autonomous Vehicles,53
+2016-11,Autonomous Vehicles,53
+2016-12,Autonomous Vehicles,53
+2017-01,Autonomous Vehicles,52
+2017-02,Autonomous Vehicles,54
+2017-03,Autonomous Vehicles,57
+2017-04,Autonomous Vehicles,56
+2017-05,Autonomous Vehicles,57
+2017-06,Autonomous Vehicles,60
+2017-07,Autonomous Vehicles,59
+2017-08,Autonomous Vehicles,62
+2017-09,Autonomous Vehicles,60
+2017-10,Autonomous Vehicles,59
+2017-11,Autonomous Vehicles,58
+2017-12,Autonomous Vehicles,57
+2018-01,Autonomous Vehicles,59
+2018-02,Autonomous Vehicles,57
+2018-03,Autonomous Vehicles,61
+2018-04,Autonomous Vehicles,62
+2018-05,Autonomous Vehicles,62
+2018-06,Autonomous Vehicles,63
+2018-07,Autonomous Vehicles,64
+2018-08,Autonomous Vehicles,66
+2018-09,Autonomous Vehicles,65
+2018-10,Autonomous Vehicles,66
+2018-11,Autonomous Vehicles,69
+2018-12,Autonomous Vehicles,69
+2019-01,Autonomous Vehicles,68
+2019-02,Autonomous Vehicles,72
+2019-03,Autonomous Vehicles,75
+2019-04,Autonomous Vehicles,76
+2019-05,Autonomous Vehicles,77
+2019-06,Autonomous Vehicles,77
+2019-07,Autonomous Vehicles,80
+2019-08,Autonomous Vehicles,79
+2019-09,Autonomous Vehicles,79
+2019-10,Autonomous Vehicles,83
+2019-11,Autonomous Vehicles,86
+2019-12,Autonomous Vehicles,90
+2020-01,Autonomous Vehicles,89
+2020-02,Autonomous Vehicles,91
+2020-03,Autonomous Vehicles,90
+2020-04,Autonomous Vehicles,89
+2020-05,Autonomous Vehicles,91
+2020-06,Autonomous Vehicles,92
+2020-07,Autonomous Vehicles,91
+2020-08,Autonomous Vehicles,92
+2020-09,Autonomous Vehicles,90
+2020-10,Autonomous Vehicles,88
+2020-11,Autonomous Vehicles,90
+2020-12,Autonomous Vehicles,92
+2021-01,Autonomous Vehicles,93
+2021-02,Autonomous Vehicles,97
+2021-03,Autonomous Vehicles,99
+2021-04,Autonomous Vehicles,97
+2021-05,Autonomous Vehicles,99
+2021-06,Autonomous Vehicles,100
+2021-07,Autonomous Vehicles,98
+2021-08,Autonomous Vehicles,99
+2021-09,Autonomous Vehicles,100
+2021-10,Autonomous Vehicles,100
+2021-11,Autonomous Vehicles,100
+2021-12,Autonomous Vehicles,100
+2022-01,Autonomous Vehicles,98
+2022-02,Autonomous Vehicles,97
+2022-03,Autonomous Vehicles,95
+2022-04,Autonomous Vehicles,97
+2022-05,Autonomous Vehicles,99
+2022-06,Autonomous Vehicles,98
+2022-07,Autonomous Vehicles,97
+2022-08,Autonomous Vehicles,98
+2022-09,Autonomous Vehicles,100
+2022-10,Autonomous Vehicles,100
+2022-11,Autonomous Vehicles,100
+2022-12,Autonomous Vehicles,100
+2023-01,Autonomous Vehicles,100
+2023-02,Autonomous Vehicles,100
+2023-03,Autonomous Vehicles,98
+2023-04,Autonomous Vehicles,100
+2023-05,Autonomous Vehicles,99
+2023-06,Autonomous Vehicles,98
+2023-07,Autonomous Vehicles,100
+2023-08,Autonomous Vehicles,100
+2023-09,Autonomous Vehicles,98
+2023-10,Autonomous Vehicles,100
+2023-11,Autonomous Vehicles,100
+2023-12,Autonomous Vehicles,100
+2024-01,Autonomous Vehicles,100
+2024-02,Autonomous Vehicles,100
+2024-03,Autonomous Vehicles,99
+2024-04,Autonomous Vehicles,98
+2024-05,Autonomous Vehicles,97
+2024-06,Autonomous Vehicles,100
+2024-07,Autonomous Vehicles,98
+2024-08,Autonomous Vehicles,96
+2024-09,Autonomous Vehicles,100
+2024-10,Autonomous Vehicles,99
+2024-11,Autonomous Vehicles,100
+2024-12,Autonomous Vehicles,100

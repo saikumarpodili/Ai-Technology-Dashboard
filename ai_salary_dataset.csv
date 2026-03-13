@@ -1,0 +1,151 @@
+role,country,average_salary_usd
+AI Engineer,United States,194030
+AI Engineer,India,106984
+AI Engineer,United Kingdom,124790
+AI Engineer,Germany,194961
+AI Engineer,Canada,98845
+AI Engineer,Australia,62119
+AI Engineer,France,120463
+AI Engineer,Japan,91566
+AI Engineer,Singapore,165887
+AI Engineer,China,117626
+AI Engineer,Netherlands,127436
+AI Engineer,Sweden,79757
+AI Engineer,Spain,184034
+AI Engineer,Italy,189797
+AI Engineer,Brazil,89324
+Machine Learning Engineer,United States,125859
+Machine Learning Engineer,India,184096
+Machine Learning Engineer,United Kingdom,91126
+Machine Learning Engineer,Germany,93938
+Machine Learning Engineer,Canada,94631
+Machine Learning Engineer,Australia,155768
+Machine Learning Engineer,France,65488
+Machine Learning Engineer,Japan,103305
+Machine Learning Engineer,Singapore,179791
+Machine Learning Engineer,China,179238
+Machine Learning Engineer,Netherlands,111885
+Machine Learning Engineer,Sweden,62921
+Machine Learning Engineer,Spain,188386
+Machine Learning Engineer,Italy,70054
+Machine Learning Engineer,Brazil,132775
+Data Scientist,United States,170658
+Data Scientist,India,89639
+Data Scientist,United Kingdom,199291
+Data Scientist,Germany,106299
+Data Scientist,Canada,136903
+Data Scientist,Australia,79711
+Data Scientist,France,172960
+Data Scientist,Japan,158737
+Data Scientist,Singapore,178215
+Data Scientist,China,69461
+Data Scientist,Netherlands,146544
+Data Scientist,Sweden,180066
+Data Scientist,Spain,185754
+Data Scientist,Italy,146556
+Data Scientist,Brazil,106598
+Deep Learning Engineer,United States,184362
+Deep Learning Engineer,India,64419
+Deep Learning Engineer,United Kingdom,98013
+Deep Learning Engineer,Germany,137680
+Deep Learning Engineer,Canada,157964
+Deep Learning Engineer,Australia,82148
+Deep Learning Engineer,France,192081
+Deep Learning Engineer,Japan,76233
+Deep Learning Engineer,Singapore,84778
+Deep Learning Engineer,China,146374
+Deep Learning Engineer,Netherlands,172976
+Deep Learning Engineer,Sweden,123294
+Deep Learning Engineer,Spain,105569
+Deep Learning Engineer,Italy,149868
+Deep Learning Engineer,Brazil,104080
+NLP Engineer,United States,128322
+NLP Engineer,India,171115
+NLP Engineer,United Kingdom,186229
+NLP Engineer,Germany,126011
+NLP Engineer,Canada,155088
+NLP Engineer,Australia,141510
+NLP Engineer,France,116898
+NLP Engineer,Japan,160044
+NLP Engineer,Singapore,171446
+NLP Engineer,China,175048
+NLP Engineer,Netherlands,128465
+NLP Engineer,Sweden,111243
+NLP Engineer,Spain,114293
+NLP Engineer,Italy,135927
+NLP Engineer,Brazil,122737
+Computer Vision Engineer,United States,93492
+Computer Vision Engineer,India,160281
+Computer Vision Engineer,United Kingdom,164969
+Computer Vision Engineer,Germany,164534
+Computer Vision Engineer,Canada,190143
+Computer Vision Engineer,Australia,156985
+Computer Vision Engineer,France,104264
+Computer Vision Engineer,Japan,129795
+Computer Vision Engineer,Singapore,135318
+Computer Vision Engineer,China,67380
+Computer Vision Engineer,Netherlands,183191
+Computer Vision Engineer,Sweden,143775
+Computer Vision Engineer,Spain,142232
+Computer Vision Engineer,Italy,130865
+Computer Vision Engineer,Brazil,62268
+Data Engineer,United States,86085
+Data Engineer,India,171008
+Data Engineer,United Kingdom,103257
+Data Engineer,Germany,145009
+Data Engineer,Canada,128965
+Data Engineer,Australia,90352
+Data Engineer,France,193285
+Data Engineer,Japan,178912
+Data Engineer,Singapore,146010
+Data Engineer,China,87353
+Data Engineer,Netherlands,165193
+Data Engineer,Sweden,94179
+Data Engineer,Spain,111453
+Data Engineer,Italy,152077
+Data Engineer,Brazil,149997
+AI Researcher,United States,120528
+AI Researcher,India,122514
+AI Researcher,United Kingdom,170597
+AI Researcher,Germany,156180
+AI Researcher,Canada,190770
+AI Researcher,Australia,169413
+AI Researcher,France,102904
+AI Researcher,Japan,62857
+AI Researcher,Singapore,86904
+AI Researcher,China,133122
+AI Researcher,Netherlands,120932
+AI Researcher,Sweden,152678
+AI Researcher,Spain,112944
+AI Researcher,Italy,199824
+AI Researcher,Brazil,120534
+Robotics Engineer,United States,104563
+Robotics Engineer,India,64726
+Robotics Engineer,United Kingdom,84611
+Robotics Engineer,Germany,162337
+Robotics Engineer,Canada,100402
+Robotics Engineer,Australia,196654
+Robotics Engineer,France,185659
+Robotics Engineer,Japan,107895
+Robotics Engineer,Singapore,197700
+Robotics Engineer,China,68298
+Robotics Engineer,Netherlands,124126
+Robotics Engineer,Sweden,144624
+Robotics Engineer,Spain,133034
+Robotics Engineer,Italy,67059
+Robotics Engineer,Brazil,144479
+AI Product Manager,United States,65514
+AI Product Manager,India,110247
+AI Product Manager,United Kingdom,188371
+AI Product Manager,Germany,176324
+AI Product Manager,Canada,70978
+AI Product Manager,Australia,96890
+AI Product Manager,France,177298
+AI Product Manager,Japan,88693
+AI Product Manager,Singapore,103363
+AI Product Manager,China,78124
+AI Product Manager,Netherlands,66022
+AI Product Manager,Sweden,66274
+AI Product Manager,Spain,103798
+AI Product Manager,Italy,97817
+AI Product Manager,Brazil,119489

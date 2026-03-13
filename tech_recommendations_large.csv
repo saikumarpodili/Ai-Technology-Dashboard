@@ -1,0 +1,56 @@
+technology,recommended_skill
+Artificial Intelligence,Python
+Artificial Intelligence,Machine Learning
+Artificial Intelligence,Deep Learning
+Artificial Intelligence,NLP
+Artificial Intelligence,TensorFlow
+Artificial Intelligence,PyTorch
+Machine Learning,Python
+Machine Learning,Scikit-learn
+Machine Learning,Statistics
+Machine Learning,Pandas
+Machine Learning,Model Evaluation
+Machine Learning,Feature Engineering
+Deep Learning,PyTorch
+Deep Learning,TensorFlow
+Deep Learning,CNN
+Deep Learning,RNN
+Deep Learning,CUDA
+Deep Learning,Computer Vision
+NLP,Transformers
+NLP,BERT
+NLP,Text Processing
+NLP,Python
+NLP,SpaCy
+NLP,Tokenization
+Computer Vision,OpenCV
+Computer Vision,PyTorch
+Computer Vision,Image Processing
+Computer Vision,Deep Learning
+Computer Vision,Object Detection
+Robotics,ROS
+Robotics,Python
+Robotics,Control Systems
+Robotics,Embedded Systems
+Robotics,Sensors
+Blockchain,Solidity
+Blockchain,Smart Contracts
+Blockchain,Cryptography
+Blockchain,Ethereum
+Blockchain,Web3
+Cybersecurity,Ethical Hacking
+Cybersecurity,Network Security
+Cybersecurity,Python
+Cybersecurity,Cryptography
+Cybersecurity,SIEM
+Quantum Computing,Qiskit
+Quantum Computing,Quantum Algorithms
+Quantum Computing,Linear Algebra
+Quantum Computing,Python
+Quantum Computing,Quantum Circuits
+Cloud Computing,AWS
+Cloud Computing,Azure
+Cloud Computing,GCP
+Cloud Computing,Docker
+Cloud Computing,Kubernetes
+Cloud Computing,DevOps
