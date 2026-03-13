@@ -7,6 +7,9 @@ The AI Technology Dashboard is an interactive data analytics project that visual
 It analyzes AI job demand, technology popularity, salary insights, investment trends, and adoption forecasts using interactive charts and dashboards.
 
 This project helps understand how AI technologies are evolving worldwide and which skills are in demand in the job market.
+## Live Demo
+
+https://ai-technology-dashboard-bwk7ornbbwkz9hqr9srxq9.streamlit.app
 
 Features
 
